@@ -3,7 +3,7 @@
 ## 项目介绍
 
 McpClientSample是一个基于Spring Boot开发的示例项目，
-集成了Spring AI框架和通义千问大模型，用于演示如何使用MCP(Multi-Channel Provider)客户端与AI大模型进行交互。
+集成了Spring AI框架和通义千问大模型，用于演示如何使用MCP(Model Context Protocol)客户端与AI大模型进行交互。
 该项目提供了与通义千问大模型通信的基础框架，可以作为开发AI应用的起点。
 
 该项目为mcp服务的客户端，所以需要依赖服务端启动暴露服务，服务端项目为[McpServerSample](https://github.com/AI-GPT1/McpServerSample)。
