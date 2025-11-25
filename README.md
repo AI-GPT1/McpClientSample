@@ -91,6 +91,9 @@ public String generateResponse(String prompt) {
     return chatClient.call(prompt);
 }
 ```
+对话案例如下图所示：
+
+![mcpclientsample-log.png](doc/mcpclientsample-log.png)
 
 ## 注意事项
 
